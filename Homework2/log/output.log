@@ -1,0 +1,3 @@
+2016-02-12 21:30:14.579 [TRACE] crawler.Crawler [main] - Host : localhostPort : 27017DB : mydbCollection : starbucks
+2016-02-12 21:30:14.727 [TRACE] crawler.Crawler [main] - Connect to database successfully
+2016-02-12 21:30:14.735 [TRACE] crawler.Crawler [main] - Connect to Collection starbucks
